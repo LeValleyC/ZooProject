@@ -40,3 +40,6 @@ The main task / goal for creating this subclass is to
   
   Finally, add any code that you would like to the AnimalTester class to exercise/test
   your animal.
+
+  MAKE SURE TO PUT YOUR NAME,  PERIOD, AND VERSION ALONG WITH A DESCRIPTION INTO
+  EACH CLASS FILE THAT YOU CREATE>
