@@ -12,7 +12,7 @@ public class Snake extends Animal implements Swim, Fly, Walk
     private String toy;
     public Snake()
     {
-        super("Dolphin", "I'm Reporting You");
+        super("Snake", "I'm Reporting You");
         this.toy = "Tattletale";
     }    
 
