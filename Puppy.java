@@ -1,20 +1,19 @@
-
 /**
- * Class of Dog, superclass of Huskie and subclass of Animal
+ * Class of Puppy, superclass of Huskie and subclass of Animal
  * 
  * @author Jaimie Jin, Period 3
  * @version Version 1.0, 3/23/17
  */
-public class Dog extends Animal implements Walk
+public class Puppy extends Animal implements Walk
 {
     private String toy;
-    public Dog()
+    public Puppy()
     {
-        super("Dog", "This is just your average dog.");
+        super("Puppy", "This is just your average dog.");
         this.toy = "fancy ball";
     }
 
-    public Dog(String species, String desc)
+    public Puppy(String species, String desc)
     {
         super(species, desc);
         toy = "ball";

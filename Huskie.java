@@ -1,11 +1,11 @@
 
 /**
- * Class of Huskie, subclass of Dog
+ * Class of Huskie, subclass of Puppy
  * 
  * @author Jaimie Jin, Period 3
  * @version Version 1.0, 3/23/17
  */
-public class Huskie extends Dog
+public class Huskie extends Puppy
 {
     public Huskie()
     {
