@@ -3,7 +3,7 @@
  * Write a description of class Dolphin here.
  * 
  * @author Ethan Alcantara, Period 4
- * @version Version 1.0, 3/23/17
+ * @version Version 2.0, 3/23/17
  */
 public class Dolphin extends Animal implements Swim, Fly, Walk
 {
@@ -12,11 +12,13 @@ public class Dolphin extends Animal implements Swim, Fly, Walk
     public Dolphin()
     {
         super("Dolphin", "An average dolphin.");
+        this.toy = "beach ball";
     }    
     //Pass-through constructor
-    public Dolphin(String species, String desc)
+    public Dolphin(String species, String desc, String toy)
     {
         super(species, desc);
+        this.toy = toy;
     }
     //inherited Animal methods
     public String eat(){
@@ -38,5 +40,8 @@ public class Dolphin extends Animal implements Swim, Fly, Walk
     }
     public String walk(){
         return "Dolphins can't walk, that'd be creepy.";
+    }
+    public String getToy(){
+        return toy;
     }
 }

@@ -11,7 +11,7 @@ public class AnimalTester
     {
         Animal b = new CircusBear();
         b.interact();
-        Animal d = new Dolphin();
+        BottlenoseDolphin d = new BottlenoseDolphin();
         System.out.println(d.interact());
     }
 }
