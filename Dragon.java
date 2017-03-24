@@ -2,8 +2,9 @@
 /**
  * Write a description of class Dragon here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Abigale Kim, 3rd period, Version 1
+ * This is a Dragon class, which enables the user to create Dragon objects.
+ * 
  */
 public class Dragon extends Animal implements Walk, Fly
 {
