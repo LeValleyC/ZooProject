@@ -1,44 +1,43 @@
-public class Dog extends Animal implements Swim, Walk
+public class Cat extends Animal implements Walk
 {
     private String toy;
-    public Dog()
+    public Cat()
     {
-        super("Dog", "This is just your average dog.");
-        this.toy = "A Warriors Basketball";
+        super("Cat", "This is just your average cat.");
+        this.toy = "A 49ers Ball of String";
     }
     //Pass-through constructor: it receives a species 
     // & description as parameters and just passes 
     // them straight up to the superclass to take care of
     
-    public Dog(String species, String desc)
+    public Cat(String species, String desc)
     {
         super(species, desc);
-        toy = "ball";
+        toy = "string";
     }
-
     public String interact() 
     {
-        return "WOOF, do not touch my " + toy;
+        return "Meow, do not touch my " + toy;
     }
     public String makeNoise() 
     {
-        return "WOOOF";
+        return "Meeow";
     }
     public String eat() 
     {
-        return "WOOF THIS IS DELICIOUS!";
+        return "MEOW THIS IS DELICIOUS!";
     }
     
     public String fly()
     {
-        return "The dog mutates and grows a pair of wings, and flies away";
+        return "The cat mutates and grows a pair of wings, and flies away";
     }
     public String swim()
     {
-        return "The dog does a backstroke";
+        return "The cat does a backstroke";
     }
     public String walk() 
     {
-        return "The dog walks";
+        return "The cat walks";
     }
 }

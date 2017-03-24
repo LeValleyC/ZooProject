@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.params=
-comment0.target=Dog()
+comment0.target=Cat()
 comment1.params=species\ desc
-comment1.target=Dog(java.lang.String,\ java.lang.String)
+comment1.target=Cat(java.lang.String,\ java.lang.String)
 comment2.params=
 comment2.target=java.lang.String\ interact()
 comment3.params=

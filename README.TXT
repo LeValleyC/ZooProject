@@ -42,4 +42,4 @@ The main task / goal for creating this subclass is to
   your animal.
 
   MAKE SURE TO PUT YOUR NAME,  PERIOD, AND VERSION ALONG WITH A DESCRIPTION INTO
-  EACH CLASS FILE THAT YOU CREATE
+  EACH CLASS FILE THAT YOU CREATE>
