@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.params=
-comment0.target=Bear()
+comment0.target=Dragon()
 comment1.params=species\ desc
-comment1.target=Bear(java.lang.String,\ java.lang.String)
+comment1.target=Dragon(java.lang.String,\ java.lang.String)
 comment2.params=
 comment2.target=java.lang.String\ interact()
 comment3.params=
@@ -13,4 +13,8 @@ comment5.params=
 comment5.target=java.lang.String\ fly()
 comment6.params=
 comment6.target=java.lang.String\ walk()
-numComments=7
+comment7.params=
+comment7.target=java.lang.String\ getInformation()
+comment8.params=
+comment8.target=java.lang.String\ taunt()
+numComments=9
