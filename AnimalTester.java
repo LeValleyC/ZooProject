@@ -14,5 +14,7 @@ public class AnimalTester
         System.out.println(panda.interact());
         
         b.interact();
+        BottlenoseDolphin d = new BottlenoseDolphin();
+        System.out.println(d.interact());
     }
 }
