@@ -11,5 +11,8 @@ public class AnimalTester
     {
         Animal b = new CircusBear();
         b.interact();
+    
+        Animal f = new Trout();
+        f.interact();
     }
 }
