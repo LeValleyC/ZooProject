@@ -1,6 +1,8 @@
 #BlueJ class context
-comment0.params=
-comment0.target=YellowPanda()
+comment0.target=YellowPanda
+comment0.text=\n\ Write\ a\ description\ of\ class\ YellowPanda\ here.\n\ \n\ @author\ Devin\ Mui\n\ @version\ 1\n\ period\ 3\n\ @desc\ yellow\ panda\n
 comment1.params=
-comment1.target=java.lang.String\ interact()
-numComments=2
+comment1.target=YellowPanda()
+comment2.params=
+comment2.target=java.lang.String\ interact()
+numComments=3

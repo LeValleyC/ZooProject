@@ -1,7 +1,9 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Husky()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Husky\r\n
+comment0.target=Husky
+comment0.text=\n\ Write\ a\ description\ of\ class\ Husky\ here.\n\ \n\ @author\ Ana\ Vukojevic\ P.03\ \n\ @version\ 1.0\n
 comment1.params=
-comment1.target=java.lang.String\ interact()
-numComments=2
+comment1.target=Husky()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Husky\n
+comment2.params=
+comment2.target=java.lang.String\ interact()
+numComments=3
