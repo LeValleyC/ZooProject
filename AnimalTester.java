@@ -9,7 +9,7 @@ public class AnimalTester
 {
     public static void main(String[] args) 
     {
-        Animal b = new CircusBear();
+        Animal b = new CircusBear(); // Mr. Kaehms example
         b.interact();
     
         Animal f = new Trout();
