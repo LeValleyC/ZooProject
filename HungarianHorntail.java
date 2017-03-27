@@ -2,8 +2,8 @@
 /**
  * Write a description of class HungarianHorntail here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Abigale Kim, 3rd period, Version 1
+ * This Hungarian Horntail class creates Hungarian Horntail objects. A Hungarian Horntail is a fictional dragon.
  */
 public class HungarianHorntail extends Dragon implements Fly, Walk
 {

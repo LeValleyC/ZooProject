@@ -14,5 +14,6 @@ public class AnimalTester
     
         Animal f = new Trout();
         f.interact();
+         
     }
 }
